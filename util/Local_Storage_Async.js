@@ -1,8 +1,6 @@
 /*
-
     Link: https://www.freecodecamp.org/news/how-to-store-data-locally-in-react-native-expo/
     Notes : Use to store data locally in react native expo
-
 */
 
 import AsyncStorage from "@react-native-async-storage/async-storage";
